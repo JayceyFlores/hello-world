@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Jaycey here, I like coffee.
+
+I like Bugs Bunny.
